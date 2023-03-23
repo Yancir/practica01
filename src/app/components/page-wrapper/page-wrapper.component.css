@@ -1,0 +1,6 @@
+main {
+    background-color: beige;
+    height: calc(100vh - var(--toolbar-height));
+    padding: 30px;
+    margin-left: var(--sidebar-width);
+}
